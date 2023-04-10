@@ -19,7 +19,6 @@ setenv opt data-ciphers AES-128-GCM:AES-256-GCM:AES-128-CBC
 resolv-retry infinite
 persist-key
 persist-tun
-setenv FRIENDLY_NAME "AntiZapret VPN TCP"
 
 <ca>
 -----BEGIN CERTIFICATE-----
