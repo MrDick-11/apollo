@@ -1,9 +1,9 @@
 {
    "servers":[
       {
-         "server_name":"Antizapret",
+         "server_name":"Antizapret-only blocked traffic",
      	"server_image_url":"https://raw.githubusercontent.com/MrDick-11/apollo/master/rkn.png",
-         "server_ip":"",
+         "server_ip":"51.158.187.25",
          "server_speed":100,
          "server_proto":"TCP",
          "server_username":"",
