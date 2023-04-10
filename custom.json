@@ -2,7 +2,7 @@
    "servers":[
       {
          "server_name":"Antizapret",
-     	"server_image_url":"https://github.com/MrDick-11/apollo/blob/2fbbca48a45253e0203afc6fe90c0770f10ad2e4/rkn.png",
+     	"server_image_url":"https://raw.githubusercontent.com/MrDick-11/apollo/master/rkn.png",
          "server_ip":"",
          "server_speed":100,
          "server_proto":"TCP",
