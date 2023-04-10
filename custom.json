@@ -1,0 +1,14 @@
+{
+   "servers":[
+      {
+         "server_name":"Singapore",
+     	"server_image_url":"https://",
+         "server_ip":"ip",
+         "server_speed":200,
+         "server_proto":"UDP",
+         "server_username":"vpn",
+         "server_pass":"vpn",
+         "server_config":""
+		 }
+   ]
+}
