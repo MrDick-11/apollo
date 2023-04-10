@@ -19,7 +19,6 @@ setenv opt data-ciphers AES-128-GCM:AES-256-GCM:AES-128-CBC
 resolv-retry infinite
 persist-key
 persist-tun
-
 <ca>
 -----BEGIN CERTIFICATE-----
 MIIDVDCCAjygAwIBAgIURU65u6E+emGuYHg2w1kXS2fUsP0wDQYJKoZIhvcNAQEL
